@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "420813571442",
+    "firebase_url": "https://crud-2f74d-default-rtdb.firebaseio.com",
+    "project_id": "crud-2f74d",
+    "storage_bucket": "crud-2f74d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420813571442:android:30e8368f70ba43e4a1c9eb",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAm5kITIQDL3RKsDlR96VEhWG1EVm74bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420813571442:android:01fd04b985df561ca1c9eb",
+        "android_client_info": {
+          "package_name": "com.madhav.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAm5kITIQDL3RKsDlR96VEhWG1EVm74bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
